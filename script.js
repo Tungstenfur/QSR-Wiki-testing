@@ -11,6 +11,7 @@ class Footer extends HTMLElement {
             <div class="footer-content">
                 <p>&copy; 2025 QHR team</p>
                 <p>Made by Tungstenfur</p>
+                <img src="NoAi.png" alt="No AI Used">
             </div>
         </div>
     </footer>`;
